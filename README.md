@@ -80,6 +80,8 @@ The example runs two fictional tracks. One prepares an **interactive** evidence 
 
 ## Evidence and maturity
 
+**Public verification:** [GitHub Actions run](https://github.com/dlehdrb9750/ai-research-automation/actions/runs/38137667969) completed successfully with **21 of 21 standard-library tests passing** and a successful synthetic demonstration on 2026-10-11. This validates only the in-memory state model, not live automated research.
+
 The synthetic engine is intentionally small. Passing tests can show that **its local state machine behaves as specified**, not that an AI is autonomously researching, that a scheduler is running, that sources have been checked, or that findings are correct.
 
 Actual research-workflow experience informed this design, but **no private data, operational schedules, investment strategy, sensitive research output, or internal repository configuration** is copied here.
