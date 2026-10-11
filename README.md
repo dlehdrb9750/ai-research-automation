@@ -1,5 +1,7 @@
 # AI Research Automation & Continuity
 
+[![Research continuity reference checks](https://github.com/dlehdrb9750/ai-research-automation/actions/workflows/python-tests.yml/badge.svg)](https://github.com/dlehdrb9750/ai-research-automation/actions/workflows/python-tests.yml)
+
 **A public reference architecture for multi-cycle, evidence-aware AI research**
 
 **Release:** 0.1.0 · Independently written educational prototype · 2026-10-11
